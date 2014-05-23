@@ -17,4 +17,4 @@
 Создается большее количество объектов, в отличии от UnityGui
 Снижается производительность, особенно при загрузке (тест показал, что при использовании в игре, в отличии от Unity GUI снижается нагрузка на процессор, увеличивается объем занимаемой памяти).
 
-![Editor](https://www.youtube.com/watch?v=WS7QIVvUi8g)
+![Editor](https://raw.githubusercontent.com/devpilgrin/AlterGui/master/GitRes/screenshot%202014-05-23%20001.png)
